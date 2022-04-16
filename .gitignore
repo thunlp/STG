@@ -1,3 +1,5 @@
 .DS_Store
 
 /data/*.pkl
+/model/*
+/train_info/*

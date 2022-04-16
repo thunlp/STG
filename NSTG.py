@@ -21,7 +21,7 @@ import json
 import tqdm
 from nltk.translate.bleu_score import sentence_bleu,SmoothingFunction
 
-from createdata import sememeDataset
+from create_data import sememeDataset
 from transformers import BertModel, BertTokenizer
 
 import anytree

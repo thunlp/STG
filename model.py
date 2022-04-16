@@ -20,10 +20,10 @@ import warnings
 import os
 import json
 import tqdm
-import createdata
+import create_data
 import tree2seq 
 
-from createdata import sememeDataset
+from create_data import sememeDataset
 from transformers import BertModel, BertTokenizer
 from transformers import WEIGHTS_NAME, CONFIG_NAME
 
