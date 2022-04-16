@@ -1,0 +1,13 @@
+anytree==2.8.0
+demjson==2.2.4
+matplotlib==3.3.4
+nltk==3.5
+numpy==1.20.1
+scikit_image==0.16.2
+sentence_transformers==2.2.0
+skimage==0.0
+torch==1.8.1
+torchvision==0.9.1
+tqdm==4.56.0
+transformers==3.0.2
+treelib==1.6.1
